@@ -16,12 +16,12 @@ function InputField(props) {
 
     return (
         <Controller
-            name={name}
-            control={form.control}
-            as={TextField}
-            fullWidth
-            label={label}
-            disable={disable}
+        // name={name}
+        // control={form.control}
+        // as={TextField}
+        // fullWidth
+        // label={label}
+        // disable={disable}
         />
     );
 }
